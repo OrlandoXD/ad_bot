@@ -1,0 +1,22 @@
+{
+  "name": "ad_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js debug"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrlandoXD/ad_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrlandoXD/ad_bot/issues"
+  },
+  "homepage": "https://github.com/OrlandoXD/ad_bot#readme"
+}
